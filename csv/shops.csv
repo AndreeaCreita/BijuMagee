@@ -1,18 +1,2 @@
-com.company.Classes.Shop@6f539caf
-com.company.Classes.Shop@6e2c634b
-com.company.Classes.Shop@4783da3f
-com.company.Classes.Shop@378fd1ac
-com.company.Classes.Shop@49097b5d
-com.company.Classes.Shop@6e2c634b
-com.company.Classes.Shop@49097b5d
-com.company.Classes.Shop@6e2c634b
-com.company.Classes.Shop@49097b5d
-com.company.Classes.Shop@6e2c634b
-com.company.Classes.Shop@49097b5d
-com.company.Classes.Shop@49097b5d
-com.company.Classes.Shop@7e6cbb7a
-com.company.Classes.Shop@7e6cbb7a
-Shop{shopId=0, name='deva', address='devvvv', shop=[], clients=[]}
-Shop{shopId=0, name='a', address='dsds', shop=[], clients=[]}
-Shop{shopId=0, name='er', address='erewfes', shop=[], clients=[]}
-Shop{shopId=0, name='ade', address='srt dfs', shop=[], clients=[]}
+Shop{name='stef', address='str florilor'}
+Shop{name='deva', address='str de'}

@@ -117,11 +117,8 @@ public class Shop {
     @Override
     public String toString() {
         return "Shop{" +
-                "shopId=" + shopId +
-                ", name='" + name + '\'' +
+                "name='" + name + '\'' +
                 ", address='" + address + '\'' +
-                ", shop=" + shop +
-                ", clients=" + clients +
                 '}';
     }
 }
