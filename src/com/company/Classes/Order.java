@@ -27,4 +27,16 @@ public class Order {
         }
         return total;
     }
+
+
+    @Override
+    public String toString() {
+        return "Order{" +
+                "orderId=" + orderId +
+                ", shopId=" + shopId +
+                ", username='" + username + '\'' +
+                ", employee=" + employee +
+                ", jewels=" + jewels +
+                '}';
+    }
 }

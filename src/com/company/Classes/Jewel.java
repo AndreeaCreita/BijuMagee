@@ -39,4 +39,13 @@ public class Jewel{
     public void Print() {
         System.out.println("The jewel " + name + " is  " + price + "$");
     }
+
+    @Override
+    public String toString() {
+        return "Jewel{" +
+                "name='" + name + '\'' +
+                ", price=" + price +
+                ", shop=" + shop +
+                '}';
+    }
 }

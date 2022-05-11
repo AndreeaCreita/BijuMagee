@@ -25,4 +25,13 @@ public class Ring extends Jewel{
         }
         System.out.println("\n");
     }
+
+
+    @Override
+    public String toString() {
+        return "Ring{" +
+                "weight=" + weight +
+                ", elements=" + elements +
+                '}';
+    }
 }

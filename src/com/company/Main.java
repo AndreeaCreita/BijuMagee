@@ -34,7 +34,7 @@ public class Main {
             3.Add shop
             4.Display shops
             5.Check if a shop is available
-            6.
+            6.Add employee
             7.Add ring
             8.Add necklace
             9.Display all the products from the shops

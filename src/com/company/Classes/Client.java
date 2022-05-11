@@ -42,4 +42,12 @@ public class Client {
         System.out.println("The client " + name + "with username " + username );
     }
 
+    @Override
+    public String toString() {
+        return "Client{" +
+                "name='" + name + '\'' +
+                ", username='" + username + '\'' +
+                ", password='" + password + '\'' +
+                '}';
+    }
 }

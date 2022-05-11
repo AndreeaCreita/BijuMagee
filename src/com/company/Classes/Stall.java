@@ -27,4 +27,12 @@ public class Stall {
     public void DisplayStall(){
         System.out.println("The stall " + name + " with location " + location);
     }
+
+    @Override
+    public String toString() {
+        return "Stall{" +
+                "location='" + location + '\'' +
+                ", name='" + name + '\'' +
+                '}';
+    }
 }

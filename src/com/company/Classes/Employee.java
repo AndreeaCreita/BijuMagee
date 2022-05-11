@@ -75,4 +75,15 @@ public class Employee {
     public void DisplayEmployee(){
         System.out.println("Employee " + employeeName + "with salary " + salary + " and " + workExperience + " of experience");
     }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "employeeName='" + employeeName + '\'' +
+                ", age=" + age +
+                ", salary=" + salary +
+                ", stall=" + stall +
+                ", workExperience=" + workExperience +
+                '}';
+    }
 }

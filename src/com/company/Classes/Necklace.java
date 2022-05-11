@@ -13,4 +13,11 @@ public class Necklace extends Jewel{
         super.Print();
         System.out.println("The necklace chain is " + chainLength + " cm");
     }
+
+    @Override
+    public String toString() {
+        return "Necklace{" +
+                "chainLength=" + chainLength +
+                '}';
+    }
 }
