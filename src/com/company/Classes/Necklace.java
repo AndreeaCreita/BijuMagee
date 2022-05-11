@@ -17,9 +17,9 @@ public class Necklace extends Jewel{
     @Override
     public String toString() {
         return "Necklace{" +
-                "chainLength=" + chainLength +
-
-                "name" + name +
-        '}';
+                "name='" + name + '\'' +
+                ", price=" + price +
+                ", chainLength=" + chainLength +
+                '}';
     }
 }

@@ -1,3 +1,1 @@
-
-Necklace{chainLength=234}
-Necklace{chainLength=45namesder}
+Necklace{name='wee', price=234, chainLength=34}
