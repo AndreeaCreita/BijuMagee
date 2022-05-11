@@ -18,6 +18,8 @@ public class Necklace extends Jewel{
     public String toString() {
         return "Necklace{" +
                 "chainLength=" + chainLength +
-                '}';
+
+                "name" + name +
+        '}';
     }
 }
